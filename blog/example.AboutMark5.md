@@ -1,4 +1,5 @@
 title: Example: About Mark5
+status: draft
 
 About Mark5
 ===========
