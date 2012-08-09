@@ -2,7 +2,7 @@ The Purpose of the Software
 ===========================
 July 2012
 
-![](hicteration.png) These days a different methods of architecture, design, and software development lifecycle spreading out like rabbits on the steroids. Development tools such as frameworks, components, and libraries keep up. Choice of the right methods and tools for the tasks is based on the eperience, intuition, or trial and error. With the increasing complexity of information systems, this leads to higher risks of making a wrong choice. In this article, I'd like to discuss one of the possible ways to evaluate if the choice was right.
+![](hicteration.png) These days different methods of architecture, design, and software development lifecycle are spreading out like rabbits on the steroids. Development tools such as frameworks, components, and libraries keep up. The choice of the right methods and tools for the task is based on the experience, intuition, or trial and error. With the increasing complexity of information systems, this leads to a higher risk of making the wrong choice. In this article, I'd like to discuss one of the possible ways how to evaluate if the choice is right.
 
 ## * The Routine
 
